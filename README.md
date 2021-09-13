@@ -14,4 +14,5 @@ I also made standard input for iterables easier by replacing boiler plate code w
 
 ## Conclusion 🔚
 I have just added higher level language (mostly python 🐍) functionalities, to make coding logic for Competitive Programming with C++ easier, rather than using repetitive code chunks.
+
 Star the repo 🌟, and follow me if you want 😄!
