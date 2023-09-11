@@ -2,11 +2,11 @@
 A CPP template file to be used for Competitive Programming
 
 ## About 📜
-A C++ template file to be used for Competitive Programming 💻
+My personal C++ template file to be used for Competitive Programming 💻
 
-It has various functions, macros for many use-cases.
+It has various functions for many use-cases.
 
-I even added in stdio functions to make it easier too. 
+I have added stdio functions to make I/O convinient too. 
 
 For standard output, I created 2 functions `print()` (to output non-beautified objects) and `printb()` (to output beautified objects)
 
