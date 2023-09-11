@@ -10,7 +10,7 @@ I have added stdio functions to make I/O convinient too.
 
 For standard output, I created 2 functions `print()` (to output non-beautified objects) and `printb()` (to output beautified objects)
 
-I also made standard input for iterables easier by replacing boiler plate code with a simple `input()` function.
+I also made standard input functions for iterables easier by replacing boiler plate code with a simple `input()` function.
 
 ## Conclusion 🔚
 I have just added higher level language (mostly python 🐍) functionalities, to make coding logic for Competitive Programming with C++ easier, rather than using repetitive code chunks.
